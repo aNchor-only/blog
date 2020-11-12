@@ -1,5 +1,5 @@
 ---
-title: "Variable and Constants"
+title: "Go Variable and Constants"
 date: 2020-11-11T12:26:32+09:00
 draft: false
 ---

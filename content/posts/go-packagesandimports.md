@@ -1,5 +1,5 @@
 ---
-title: "Packages and Imports"
+title: "Go Packages and Imports"
 date: 2020-11-11T11:57:06+09:00
 draft: false
 ---

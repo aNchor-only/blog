@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Go Introduction"
 date: 2020-11-07T22:11:13+09:00
 draft: false
 ---

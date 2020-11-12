@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Go Hello World"
 date: 2020-11-11T11:37:42+09:00
 draft: false
 ---

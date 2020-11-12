@@ -1,6 +1,6 @@
 ---
 
-title: "Installation"
+title: "Go Installation"
 date: 2020-11-07T22:18:51+09:00
 draft: false
 ---
